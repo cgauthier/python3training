@@ -1,4 +1,4 @@
-from clear_screen import *
+from clear_screen import cls
 cls()
 
 print("if and else if (elif) statements\n")
